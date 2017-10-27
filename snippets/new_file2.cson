@@ -1,0 +1,30 @@
+'.source.html':
+          'prefix': 'html'
+          'body' :<!DOCTYPE html>
+'.source.html':
+          'prefix': 'html'
+          'body' :<html>
+'.source.html':
+          'prefix': 'html'
+          'body' :  <head>
+'.source.html':
+          'prefix': 'html'
+          'body' :    <meta charset="utf-8">
+'.source.html':
+          'prefix': 'html'
+          'body' :    <title></title>
+'.source.html':
+          'prefix': 'html'
+          'body' :  </head>
+'.source.html':
+          'prefix': 'html'
+          'body' :  <body>
+'.source.html':
+          'prefix': 'html'
+          'body' :
+'.source.html':
+          'prefix': 'html'
+          'body' :  </body>
+'.source.html':
+          'prefix': 'html'
+          'body' :</html>
